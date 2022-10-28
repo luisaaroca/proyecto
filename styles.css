@@ -1,0 +1,18 @@
+body{
+margin: 12x;
+padding: 0px;
+font-family: ´franklin gothic medium´, ´ariel narrow´, arial, sans-serif;  
+} 
+header{
+    height: 60px;
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-menu li{
+    display: inline;
+    width: 250px;
+    height:auto;
+}
